@@ -1,3 +1,5 @@
+// 1-3 a means that the password must contain a at least 1 time and at most 3 times.
+// How many passwords are valid according to their policies?
 package main
 
 import (

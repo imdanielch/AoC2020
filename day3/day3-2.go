@@ -1,3 +1,10 @@
+//    Right 1, down 1.
+//    Right 3, down 1. (This is the slope you already checked.)
+//    Right 5, down 1.
+//    Right 7, down 1.
+//    Right 1, down 2.
+//
+// What do you get if you multiply together the number of trees encountered on each of the listed slopes?
 package main
 
 import (
